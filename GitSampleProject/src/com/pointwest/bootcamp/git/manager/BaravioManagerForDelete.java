@@ -4,5 +4,6 @@ public class BaravioManagerForDelete {
 
 	public void sayMessage() {
 		System.out.println("Hi Deletion");
+		System.out.println("Hello world!");
 	}
 }
