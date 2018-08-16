@@ -10,6 +10,8 @@ public class NewGitMain {
 		System.out.println("new git class no more");
 		System.out.println("conflict it will not.");
 
+		System.out.println("trying this conflicting thing again... :(");
+
 	}
 
 }
