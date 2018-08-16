@@ -6,5 +6,6 @@ public class VidalManager {
 		System.out.println("This is a newer version.");
 		
 		System.out.println("HA HA HA I EDITED KEN'S WORK >:)");
+
 	}
 }
